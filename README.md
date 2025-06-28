@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am Currently Working On Full Stack Development.<br>I am BBIT Final Year Student <br>I Love Creating Visually Appealing and Functional Sites
+-Working On Full Stack Development
+Hands On Experience In : MERN , NEXTJS , WORDPRESS
 
 
 ## 🌐 Socials:
