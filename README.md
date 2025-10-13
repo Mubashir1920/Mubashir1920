@@ -1,4 +1,4 @@
-# 💫 Sup?:
+# 💫 Software Engineer | MERN | NEXTJS :
 -Working On Full Stack Development
 Hands On Experience In : MERN , NEXTJS , WORDPRESS
 
