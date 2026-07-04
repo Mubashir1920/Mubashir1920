@@ -1,7 +1,5 @@
 # 💫 Software Engineer | MERN | NEXTJS :
--Working On Full Stack Development
-Hands On Experience In : MERN , NEXTJS , WORDPRESS
-
+-Working as Full Stack Developer ( MERN / NEXTJS / PHP / PYTHON )
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-mubashir-060923234/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/TheTechGuy_1) 
