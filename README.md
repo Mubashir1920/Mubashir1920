@@ -1,4 +1,4 @@
-# 💫 Software Engineer | MERN | NEXTJS :
+# 💫 FULL STACK DEVELOPER | SOFTWARE ENGINEER :
 -Working as Full Stack Developer ( MERN / NEXTJS / PHP / PYTHON )
 
 ## 🌐 Socials:
